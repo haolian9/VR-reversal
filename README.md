@@ -2,7 +2,7 @@
 
 Uses MPV and a plugin to play a 3D side-by-side video as a 2D video, allows you to look around and zoom within the video, optionally logs the head motions to a file for later rendering out to a 2D video with ffmpeg.
 
-![Example output](https://github.com/dfaker/VR-reversal/blob/master/example.gif?raw=true)
+![Example output](https://user-images.githubusercontent.com/6236829/198802207-a778aa1c-2663-4a18-9a12-d681e1f0d3f7.gif)
 
 # Installation and Usage:
 
